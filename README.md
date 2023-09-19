@@ -1,5 +1,5 @@
-![OldSecond's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OldSecond&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=12&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Second&layout=donut)
+![OldSecond's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OldSecond&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Second&layout=donut) -->
 <!-- ![OldSecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-Second&show_icons=true&theme=transparent) -->
 <!-- ### Hi there 👋 -->
 
