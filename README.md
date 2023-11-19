@@ -1,19 +1,27 @@
-![OldSecond's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OldSecond&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Second&layout=donut) -->
-<!-- ![OldSecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-Second&show_icons=true&theme=transparent) -->
-<!-- ### Hi there 👋 -->
+## Hi 👋, my name is 𝑶𝒍𝒅𝑺𝒆𝒄𝒐𝒏𝒅
 
-<!--
-**Old-Second/Old-Second** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/Old-Second/Old-Second/blob/main/developer.gif" alt="developer" width="500" height="350"/> 
 
-Here are some ideas to get you started:
+### A college student studying front-end development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝑨𝒃𝒐𝒖𝒕
+
+```js
+const FrontEndDeveloper = {};
+const OldSecond = Object.create(FrontEndDeveloper)
+OldSecond.from = '河北承德'
+OldSecond.university = 'Central China Normal University'
+OldSecond.organization = '木犀团队'
+OldSecond.target = function () {
+    setTimeout(() => {
+        OldSecond.identity = 'An better front-end engineer'
+    }, Infinity)
+}
+```
+
+---
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OldSecond&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Second&layout=compact"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Old-Second&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
