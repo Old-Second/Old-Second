@@ -14,7 +14,7 @@ OldSecond.university = 'Central China Normal University'
 OldSecond.organization = '木犀团队'
 OldSecond.target = function () {
     setTimeout(() => {
-        OldSecond.identity = 'An better front-end engineer'
+        OldSecond.identity = 'A better front-end engineer'
     }, Infinity)
 }
 ```
